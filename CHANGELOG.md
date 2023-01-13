@@ -7,9 +7,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* Hello
-* **JSON:API:** Hello
+* Bye
+* **JSON:API:** Bye
 
 ### Bug Fixes
 
-* **AgendaAPI:** Hello
+* **AgendaAPI:** Bye
